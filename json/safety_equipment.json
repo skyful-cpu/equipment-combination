@@ -1,0 +1,28 @@
+{
+	"head": {
+		"no_headgear": 0,
+		"helmet": 0
+	},
+	"eye": {
+		"no_eyewear": 0,
+		"glasses": 0,
+		"safety_gogle_1": 0,
+		"safety_gogle_2": 0
+	},
+	"face": {
+		"no_facewear": 0,
+		"mask": 0,
+		"half_gas_mask": 0,
+		"full_gas_mask": 0
+	},
+	"body": {
+		"no_bodysuit": 0,
+		"lab_coat": 0,
+		"hazmet": 0
+	},
+	"hand": {
+		"no_handwear": 0,
+		"latex_glove": 0,
+		"fire_resistant_glove": 0
+	}
+}
